@@ -1,0 +1,8 @@
+.flag-img {
+  max-height: 30vh;
+  max-width: 90%;
+  border: 3px solid black;
+  margin: 15px;
+  opacity: 1;
+  background-color: white;
+}

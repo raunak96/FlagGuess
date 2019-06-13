@@ -1,0 +1,16 @@
+.flag-answer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3em;
+  font-weight: 700;
+  opacity: 1;
+  width:70%;
+  margin: 0 auto;
+  border:2px solid white;
+  background-color: white;
+}
+
+.flag-answer button {
+  margin-left: 30px;
+}
